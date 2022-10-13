@@ -1,3 +1,9 @@
 title: BlackTIDES
 author: BlackTIDES
-remote_theme: mmistakes/minimal-mistakes
+# remote_theme: mmistakes/minimal-mistakes
+
+aux_links:
+
+github:
+  is_project_page: false
+  is_user_page: false
